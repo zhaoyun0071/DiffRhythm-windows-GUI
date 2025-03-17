@@ -1,5 +1,5 @@
 # DiffRhythm-windows-GUI
-不用搭建环境，解压即用
+完全免费，不用搭建环境，解压即用
 
 # 软件基于开源的项目
 https://github.com/ASLP-lab/DiffRhythm
